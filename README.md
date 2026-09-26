@@ -231,6 +231,7 @@ LED8 ← LED7 ← LED6 ← LED5
 ```
 
 The sequence repeats continuously.
+<img width="1337" height="989" alt="image" src="https://github.com/user-attachments/assets/c1d72fd7-89a4-49c1-b913-eca5fb81c71c" />
 
 ---
 
